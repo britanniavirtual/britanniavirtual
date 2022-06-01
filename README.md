@@ -6,4 +6,4 @@ My [Blog](https://britanniavirtual.blogspot.com/)
 
 My [Instagram](https://www.instagram.com/britanniavirtual/)
 
-My [Twitter]([https://www.instagram.com/britanniavirtual](https://twitter.com/britanniavirtu/)
+My [Twitter](https://twitter.com/britanniavirtu/)
