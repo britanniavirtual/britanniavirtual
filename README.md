@@ -10,4 +10,4 @@ Follow us on:
 
 [Twitter](https://twitter.com/britanniavirtu/)
 
-<h4>(C) Copyright 2022 - All rights reserved.</h4>
+<h6>(C) Copyright 2022 - All rights reserved.</h6>
