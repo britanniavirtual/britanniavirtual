@@ -7,3 +7,5 @@ My [Blog](https://britanniavirtual.blogspot.com/)
 My [Instagram](https://www.instagram.com/britanniavirtual/)
 
 My [Twitter](https://twitter.com/britanniavirtu/)
+
+(C) Copyright 2022 - All rights reserved.
