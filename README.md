@@ -1,11 +1,13 @@
 <h1>Britannia Virtual</h1>
 
-My [Youtube Channel](http://www.youtube.com/channel/UCTc-P1rJztK5dM_4Aa3UZkQ)
+Follow us on:
 
-My [Blog](https://britanniavirtual.blogspot.com/)
+[Youtube](http://www.youtube.com/channel/UCTc-P1rJztK5dM_4Aa3UZkQ)
 
-My [Instagram](https://www.instagram.com/britanniavirtual/)
+[Blogger](https://britanniavirtual.blogspot.com/)
 
-My [Twitter](https://twitter.com/britanniavirtu/)
+[Instagram](https://www.instagram.com/britanniavirtual/)
+
+[Twitter](https://twitter.com/britanniavirtu/)
 
 <h4>(C) Copyright 2022 - All rights reserved.</h4>
