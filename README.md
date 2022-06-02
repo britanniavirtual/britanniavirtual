@@ -8,4 +8,4 @@ My [Instagram](https://www.instagram.com/britanniavirtual/)
 
 My [Twitter](https://twitter.com/britanniavirtu/)
 
-(C) Copyright 2022 - All rights reserved.
+<h4>(C) Copyright 2022 - All rights reserved.</h4>
