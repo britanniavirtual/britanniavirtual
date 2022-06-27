@@ -11,3 +11,5 @@ Follow us on:
 [Twitter](https://twitter.com/britanniavirtu/)
 
 <h6>(C) Copyright 2022 - All rights reserved.</h6>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=britanniavirtual&hide=javascript,css,scss,html&theme=slate)
