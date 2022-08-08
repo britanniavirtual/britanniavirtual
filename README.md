@@ -1,5 +1,7 @@
 <h1>Britannia Virtual</h1>
 
+Code repository for Britannia Virtual graphics engine.
+
 Follow us on:
 
 [Youtube](http://www.youtube.com/channel/UCTc-P1rJztK5dM_4Aa3UZkQ)
