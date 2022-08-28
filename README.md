@@ -2,7 +2,7 @@
 
 Code repository for Britannia Virtual graphics and physics engine.
 
-Follow us on:
+Learn more on:
 
 [Youtube](http://www.youtube.com/channel/UCTc-P1rJztK5dM_4Aa3UZkQ)
 
