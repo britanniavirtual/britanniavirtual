@@ -1,6 +1,6 @@
 <h1>Britannia Virtual</h1>
 
-Code repository for Britannia Virtual graphics engine.
+Code repository for Britannia Virtual graphics and physics engine.
 
 Follow us on:
 
