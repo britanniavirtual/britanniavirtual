@@ -12,6 +12,8 @@ Learn more on:
 
 [Twitter](https://twitter.com/britanniavirtu/)
 
+[The Britannia project social links](https://cosoc.com/britannia)
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=britanniavirtual&hide=javascript,css,scss,html&theme=slate)
 
 <h6>(C) Copyright 2022 Britannia Virtual ® - All rights reserved.</h6>
