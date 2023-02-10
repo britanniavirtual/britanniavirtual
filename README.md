@@ -2,7 +2,7 @@
 
 Code repository for Britannia Virtual graphics and physics engine. Here can be found a library of HLSL shaders used in the engine and C++ code mainly to do with 3D graphics, rendering and vector arithmetic.
 
-Learn more on:
+Useful Links
 
 [Youtube](http://www.youtube.com/channel/UCTc-P1rJztK5dM_4Aa3UZkQ)
 
