@@ -4,7 +4,7 @@ Code repository for Britannia Virtual graphics and physics engine. Here can be f
 
 Related Links
 
-[Home](http://www.britanniavirtual.com)
+[Official Website](http://www.britanniavirtual.com)
 
 [Youtube](http://www.youtube.com/channel/UCTc-P1rJztK5dM_4Aa3UZkQ)
 
