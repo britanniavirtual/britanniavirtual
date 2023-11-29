@@ -10,8 +10,6 @@ Related Links
 
 [Blogger](https://britanniavirtual.blogspot.com/)
 
-[Instagram](https://www.instagram.com/britanniavirtual/)
-
 [Twitter](https://twitter.com/britanniavirtu/)
 
 [Compiled.Social](https://cosoc.com/britannia)
