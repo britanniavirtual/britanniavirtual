@@ -16,4 +16,4 @@ Related Links
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=britanniavirtual&hide=javascript,css,scss,html&theme=slate)
 
-<h6>(C) Copyright 2021 -2024 Britannia Virtual
+<h6>© Copyright 2021 -2024 Britannia Virtual®
